@@ -190,22 +190,22 @@ body {
 }
 
 .btn-primary {
-  background: var(--primary);
+  background: #8B5CF6;
   color: white;
 }
 
 .btn-primary:hover:not(:disabled) {
-  background: var(--primary-dark);
+  background: #7C3AED;
   box-shadow: var(--shadow-md);
 }
 
 .btn-success {
-  background: var(--success);
+  background: #F59E0B;
   color: white;
 }
 
 .btn-success:hover:not(:disabled) {
-  background: var(--success-dark);
+  background: #D97706;
   box-shadow: var(--shadow-md);
 }
 
